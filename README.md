@@ -1,5 +1,5 @@
 # RobotApplication
-Sample Demo For Design and TDD Approch
-BasicRobotTest  Define basis Test Cases 
-Custion Exceptions not define In this Basic Design  
+Sample Demo For Design and TDD Approch</br>
+BasicRobotTest  Define basis Test Cases(Test cases defined only for BasicRobot)</br>
+Custion Exceptions not define In this Basic Design</br>  
 
