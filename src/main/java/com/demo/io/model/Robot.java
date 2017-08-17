@@ -1,6 +1,6 @@
 package com.demo.io.model;
 
-import com.demo.io.ScanStrategy;
+import com.demo.io.common.ScanStrategy;
 
 public interface Robot {
 

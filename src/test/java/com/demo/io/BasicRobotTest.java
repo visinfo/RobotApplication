@@ -7,11 +7,13 @@ import java.util.List;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.demo.io.model.BasicBattery;
-import com.demo.io.model.BasicRobot;
+import com.demo.io.common.BasicScan;
+import com.demo.io.common.RobotType;
 import com.demo.io.model.Distance;
 import com.demo.io.model.Item;
 import com.demo.io.model.Robot;
+import com.demo.io.model.implementation.BasicBattery;
+import com.demo.io.model.implementation.BasicRobot;
 
 import junit.framework.Assert;
 
