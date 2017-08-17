@@ -13,7 +13,7 @@ import com.demo.io.model.Message;
 import com.demo.io.model.Robot;
 
 /**
- * This is Robot Model Class . Defines Basic Feature And Method To Build Robot Instance 
+ * This is Robot Model Class . Defines Basic Feature And Method To Build Robot Instance (Using Builder Design Pattern)
  * @author Neeraj Jain
  *
  */

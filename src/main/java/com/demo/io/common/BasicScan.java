@@ -4,7 +4,7 @@ import com.demo.io.model.Item;
 import com.demo.io.repository.RobotSystemRepo;
 
 /**
- * This Class Define the Scane Strategy to read the barcode 
+ * This Class Define the Scane Strategy to read the barcode (Using Strategy Design Pattern)
  * 
  * @author Neeraj Jain
  *
