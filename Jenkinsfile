@@ -1,15 +1,8 @@
-pipeline {
-  agent {
-    node {
-      label 'checkout'
-    }
-    
-  }
-  stages {
-    stage('checkout') {
-      steps {
-        bat(script: '      checkout scm', returnStdout: true)
-      }
-    }
-  }
-}
+node {
+   stage 'Checkout'
+
+      checkout scm
+
+   stage 'Build'
+       mvn clean build
+ }
